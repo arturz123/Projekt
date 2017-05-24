@@ -1,0 +1,37 @@
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\obj\x86\Debug\Saper.Plansza.resources
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\obj\x86\Debug\Saper.NowaGra.resources
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\obj\x86\Debug\Saper.Properties.Resources.resources
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\obj\x86\Debug\Saper.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\obj\x86\Debug\MineSweeper.exe
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\obj\x86\Debug\MineSweeper.pdb
+C:\Users\Jakub\Desktop\CSharp_Minesweeper-master\MineSweeper\obj\x86\Debug\Saper.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Debug\Saper.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Debug\Saper.Plansza.resources
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Debug\Saper.NowaGra.resources
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Debug\Saper.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Debug\Saper.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\Saper\MineSweeper\bin\Debug\Saper.exe
+C:\Users\Jakub\Desktop\Saper\MineSweeper\bin\Debug\Saper.pdb
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Debug\Saper.exe
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Debug\Saper.pdb
+C:\Users\admin\Downloads\Saper\MineSweeper\obj\x86\Debug\Saper.exe
+C:\Users\admin\Downloads\Saper\MineSweeper\obj\x86\Debug\Saper.pdb
+C:\Users\admin\Downloads\Saper\MineSweeper\bin\Debug\Saper.exe
+C:\Users\admin\Downloads\Saper\MineSweeper\bin\Debug\Saper.pdb
+C:\Users\admin\Downloads\Saper\MineSweeper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Saper\MineSweeper\obj\x86\Debug\Saper.Plansza.resources
+C:\Users\admin\Downloads\Saper\MineSweeper\obj\x86\Debug\Saper.NowaGra.resources
+C:\Users\admin\Downloads\Saper\MineSweeper\obj\x86\Debug\Saper.Properties.Resources.resources
+C:\Users\admin\Downloads\Saper\MineSweeper\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Downloads\Saper\MineSweeper\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\bin\Debug\Saper.exe
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\bin\Debug\Saper.pdb
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\obj\x86\Debug\Saper.csprojResolveAssemblyReference.cache
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\obj\x86\Debug\Saper.Plansza.resources
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\obj\x86\Debug\Saper.NowaGra.resources
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\obj\x86\Debug\Saper.Properties.Resources.resources
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\obj\x86\Debug\Saper.csproj.GenerateResource.Cache
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\obj\x86\Debug\Saper.exe
+C:\Users\ \Downloads\SAPER\Saper\MineSweeper\obj\x86\Debug\Saper.pdb

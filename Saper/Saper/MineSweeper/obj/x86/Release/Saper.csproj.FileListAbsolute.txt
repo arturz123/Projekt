@@ -1,0 +1,9 @@
+C:\Users\Jakub\Desktop\Saper\MineSweeper\bin\Release\Saper.exe
+C:\Users\Jakub\Desktop\Saper\MineSweeper\bin\Release\Saper.pdb
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Release\Saper.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Release\Saper.Plansza.resources
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Release\Saper.NowaGra.resources
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Release\Saper.Properties.Resources.resources
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Release\Saper.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Release\Saper.exe
+C:\Users\Jakub\Desktop\Saper\MineSweeper\obj\x86\Release\Saper.pdb
